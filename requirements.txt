@@ -1,8 +1,7 @@
 streamlit
 openai-whisper
-pandas
-torch
-moviepy==1.0.3
+moviepy
 deep-translator
 edge-tts
-asyncio
+torch
+pandas
