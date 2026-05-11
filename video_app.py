@@ -7,7 +7,7 @@ import torch
 import pandas as pd
 import tempfile
 from datetime import datetime
-from moviepy.editor import VideoFileClip, AudioFileClip, CompositeAudioClip
+from moviepy import VideoFileClip, AudioFileClip, CompositeAudioClip
 from deep_translator import GoogleTranslator
 
 # --- ១. ការកំណត់ Cloud License (Google Sheets) ---
